@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #d3c8c8;
+}
+
+.container {
+
+    width: 17vw;
+
+}
+
+.cal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 88vh;
+}
+
+button {
+    width: 4vw;
+    height: 8vh;
+    font-size: 20px;
+    padding: 8px;
+    border-radius: 18px;
+    margin: 7px 0px;
+    background-color: #c9a9a9;
+}
+
+.display {
+
+    width: 16vw;
+    border: solid;
+    border-radius: 11px;
+    height: 6vh;
+    font-size: 17px;
+}
+
+.clear {
+    width: 8vw;
+}
+
+.equals {
+    width: 8vw;
+}
+
+.add {
+    width: 4vw;
+    height: 9vh;
+}
+
+.sub {
+    width: 4vw;
+    height: 9vh;
+
+}
+
+.mul {
+    width: 4vw;
+    height: 9vh;
+}
+
+.div {
+    width: 4vw;
+    height: 9vh;
+}
+
+.decimal {
+    width: 4vw;
+    height: 9vh;
+}
+
+.zero {
+
+    width: 8vw;
+}
